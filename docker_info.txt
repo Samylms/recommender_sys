@@ -1,0 +1,3 @@
+kubernetes : liste de containers 
+microservice : un container par service 
+CI CD : integration en continue 
